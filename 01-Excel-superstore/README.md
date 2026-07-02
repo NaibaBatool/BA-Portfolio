@@ -22,7 +22,8 @@ Source: Kaggle
 - Business grew 81% from 2015 to 2017 before plateauing in 2018
 
 ## Dashboard Preview
-![Dashboard](dashboard_screenshot.png)
+<img width="1366" height="704" alt="dashboard_ss" src="https://github.com/user-attachments/assets/ce818481-2431-4ca1-911e-7f15523c52b7" />
+
 
 ## Skills Demonstrated
 Power Query · Pivot Tables · GETPIVOTDATA · Data Cleaning · 
